@@ -1,5 +1,5 @@
 # Artisana.ma
-Projet réalisé pour le compte de la société "abodystudio.com" dans le cadre de mon stage de fin de formation.
+Projet réalisé pour le compte de la société "[AbodyStudio](https://abodystudio.com/)" dans le cadre de mon stage de fin de formation.
 la société voulant concevoir une plate-forme appelée artisana.ma, cette  plate-forme est basée sur le principe du marketplace spécialisé dans l'artisanat marocain, c'est-à-dire que des artisans et des coopératives mettent en vente leurs articles pour le proposer à la vente en ligne, avec en parallèle un blog de mode.
 Pour vocation de permettre à l’artisan d’offrir la possibilité à n’importe quel client d’acheter des produits 100%  marocains en ligne.
 
